@@ -1,0 +1,57 @@
+
+.header{
+	/*height:10px;*/
+	min-height: 46px;
+	background-color: #fffffa;
+
+}
+.wrapper{
+	
+	overflow: hidden;
+
+}
+.img{
+	min-height: 150px;
+	background-size: cover;
+    width: 50%;
+    float: left;
+
+}
+.blog{
+	/*min-height: 150px;*/
+	/*background-color: #ffffd7;*/
+    width:50%;
+    float:right;
+    padding-top: 40px;
+}
+
+.container{
+	overflow: hidden;
+	
+}
+.single{
+	min-height: 100px;
+	width: 25%;
+	float: left;
+	margin: 16px auto;
+    padding-left: -0.7px;
+}
+.yellow{
+	background-color: #e4fbb5;
+}
+.orange{
+	background-color: #ccebf5;
+
+}	
+.green{
+	background-color:#e4fbb5 ;
+}
+.black{
+	background-color:#ccebf5;
+
+}
+.footer{
+	min-height: 62px;
+	background-color: #e3eeef;
+    /*clear:both;*/
+}
